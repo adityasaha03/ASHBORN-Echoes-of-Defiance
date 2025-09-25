@@ -63,13 +63,14 @@ Open the project in Visual Studio 2013
 3. Tasin Yeasir
 
 
-## Screenshots
 
 ### **Menu**
-<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="200" height="200">
+<img width="1596" height="899" alt="menu image" src="https://github.com/user-attachments/assets/f5ffb2bd-c140-4209-b674-325f4ec0a010" />
 
-### **Character**
-<img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
+### **Gameplay**
+<img src="https://github.com/user-attachments/assets/8f005b22-3167-4373-bb0d-3724b7203c82" width="1359" height="762">
+
+<img src="https://github.com/user-attachments/assets/4c6d9660-8a3d-41bf-ae96-b47ae87273ff" width="1356" height="764">
 
 ## Youtube Link
 [CSE 1200 Project: Ashborn: Echoes of Defiance](https://youtu.be/bgIz0cgO8Mc?feature=shared)
